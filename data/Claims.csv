@@ -1,0 +1,76 @@
+Claim Number,Incident Date,Date Filed,Status,Settlement Amount,Insurance Provider,Injury Type,Description
+WC-2022-001,2022-01-12,2022-01-15,Settled,5200,Liberty Mutual Insurance,Slip and Fall,Employee slipped on wet warehouse floor near loading dock causing ankle sprain
+WC-2022-003,2022-02-18,2022-02-21,Settled,8500,Liberty Mutual Insurance,Struck By Object,Falling inventory struck employee on shoulder while stocking shelves
+WC-2022-011,2022-06-04,2022-06-07,Settled,12000,Liberty Mutual Insurance,Struck By Object,Pallet rack partial collapse injured warehouse associate
+WC-2022-007,2022-04-05,2022-04-08,Settled,15000,MetLife,Struck By Object,Heavy equipment component dropped and struck employee's foot
+WC-2022-019,2022-10-10,2022-10-13,Settled,18500,MetLife,Struck By Object,Crane load shifted unexpectedly and struck manufacturing worker
+WC-2022-002,2022-01-28,2022-02-01,Settled,7500,Travelers Insurance,Equipment Malfunction,Forklift mechanical failure caused crush injury to right hand
+WC-2022-014,2022-07-22,2022-07-25,Settled,9000,Travelers Insurance,Equipment Malfunction,Power tool malfunction caused eye injury requiring treatment
+WC-2022-023,2022-12-06,2022-12-09,Settled,11200,Travelers Insurance,Equipment Malfunction,Scaffolding gave way injuring two maintenance workers simultaneously (group claim)
+WC-2022-016,2022-08-20,2022-08-23,Settled,20000,Zurich Insurance Group,Equipment Malfunction,Forklift tip-over accident caused significant back and rib injuries to operator
+WC-2022-020,2022-10-20,2022-10-23,Settled,14000,Chubb Limited,Equipment Malfunction,HVAC equipment failure caused electrical shock to technician
+WC-2022-004,2022-02-24,2022-02-26,Settled,3100,Chubb Limited,Repetitive Motion,Repetitive strain injury to wrist from extended assembly line work
+WC-2022-005,2022-03-09,2022-03-11,Settled,4800,Liberty Mutual Insurance,Slip and Fall,Employee tripped on uneven flooring in shipping area causing knee contusion
+WC-2022-006,2022-03-21,2022-03-23,Settled,9200,MetLife,Equipment Malfunction,Machine guard failure resulted in laceration to left arm requiring stitches
+WC-2022-008,2022-04-19,2022-04-21,Settled,6700,Zurich Insurance Group,Repetitive Motion,Lower back strain from repetitive heavy lifting over extended period
+WC-2022-009,2022-05-03,2022-05-06,Settled,5600,MetLife,Slip and Fall,Employee slipped on metal shavings during manufacturing cleanup
+WC-2022-010,2022-05-17,2022-05-19,Settled,11200,Travelers Insurance,Equipment Malfunction,Conveyor belt malfunction caused entrapment and hand injury
+WC-2022-012,2022-06-16,2022-06-18,Settled,4200,Travelers Insurance,Slip and Fall,Employee slipped in parking lot during rainy conditions sustaining wrist fracture
+WC-2022-013,2022-07-07,2022-07-10,Denied,0,Chubb Limited,Repetitive Motion,Claim for chronic back pain denied due to pre-existing condition documentation
+WC-2022-015,2022-08-04,2022-08-06,Settled,7800,Zurich Insurance Group,Struck By Object,Swinging warehouse door struck employee causing shoulder injury
+WC-2022-017,2022-09-03,2022-09-06,Settled,6100,MetLife,Slip and Fall,Employee fell from step stool while accessing overhead storage area
+WC-2022-018,2022-09-16,2022-09-18,Settled,5500,Liberty Mutual Insurance,Repetitive Motion,Carpal tunnel syndrome developed from prolonged keyboard and mouse use
+WC-2022-021,2022-11-05,2022-11-08,Settled,8900,Zurich Insurance Group,Slip and Fall,Employee slipped on ice in loading zone causing hip contusion
+WC-2022-022,2022-11-19,2022-11-22,Denied,0,Liberty Mutual Insurance,Repetitive Motion,Claim denied after investigation found injury occurred outside of work hours
+WC-2022-024,2022-12-15,2022-12-17,Settled,4300,Chubb Limited,Slip and Fall,Employee slipped on freshly mopped floor in common area
+WC-2022-025,2022-12-29,2022-12-31,Settled,6800,Chubb Limited,Struck By Object,Loose overhead cabinet fell and struck employee causing head laceration
+WC-2023-005,2023-03-07,2023-03-09,Settled,6200,Liberty Mutual Insurance,Slip and Fall,Warehouse associate slipped on oil spill in vehicle bay causing back strain
+WC-2023-017,2023-08-25,2023-08-28,Settled,9800,Liberty Mutual Insurance,Equipment Malfunction,Warehouse equipment pinch point injury to fingers requiring medical treatment
+WC-2023-008,2023-04-19,2023-04-22,Settled,22000,MetLife,Equipment Malfunction,CNC machine guard failure caused serious laceration to right hand
+WC-2023-003,2023-02-08,2023-02-10,Settled,13500,Travelers Insurance,Struck By Object,Heavy pipe fell from overhead rack and struck maintenance worker
+WC-2023-020,2023-10-11,2023-10-14,Settled,8800,Travelers Insurance,Slip and Fall,Maintenance technician slipped on wet roof surface during safety inspection
+WC-2023-004,2023-02-22,2023-02-24,Settled,25000,Zurich Insurance Group,Equipment Malfunction,Forklift hydraulic failure caused operator to be thrown resulting in significant back injury
+WC-2023-025,2023-12-12,2023-12-14,In Review,0,Zurich Insurance Group,Struck By Object,Claim under review after load-shifting incident injured forklift operator
+WC-2023-010,2023-05-17,2023-05-20,Settled,8200,Liberty Mutual Insurance,Equipment Malfunction,Pallet jack malfunction caused two warehouse workers to sustain foot injuries (group claim)
+WC-2023-022,2023-11-08,2023-11-10,Settled,11000,Liberty Mutual Insurance,Slip and Fall,Warehouse lead slipped on ice patch near dock door causing knee injury
+WC-2023-013,2023-06-30,2023-07-03,Settled,7500,MetLife,Slip and Fall,Quality inspector slipped on wet inspection floor causing ankle sprain
+WC-2023-014,2023-07-14,2023-07-17,Settled,9200,MetLife,Equipment Malfunction,Inspection equipment short-circuit caused minor burn injury to hand
+WC-2023-018,2023-09-08,2023-09-11,Settled,9500,Chubb Limited,Struck By Object,HVAC component dislodged during repair and struck technician on upper arm
+WC-2023-007,2023-04-05,2023-04-08,Settled,6800,Travelers Insurance,Slip and Fall,Operations coordinator slipped on wet stairs causing wrist sprain
+WC-2023-023,2023-11-20,2023-11-22,Settled,8100,Travelers Insurance,Struck By Object,Unsecured cart rolled into employee in operations corridor causing leg bruising
+WC-2023-001,2023-01-10,2023-01-12,Settled,7200,Travelers Insurance,Slip and Fall,Employee slipped on wet surface near break room causing hip injury
+WC-2023-002,2023-01-24,2023-01-26,Settled,5800,Chubb Limited,Equipment Malfunction,Welding equipment malfunction caused minor burns to forearm
+WC-2023-006,2023-03-21,2023-03-23,Settled,8400,Chubb Limited,Repetitive Motion,Electrician developed repetitive motion shoulder injury from sustained overhead wiring work
+WC-2023-009,2023-05-03,2023-05-06,Settled,9100,Travelers Insurance,Struck By Object,Production employee struck by rolling cart in manufacturing corridor
+WC-2023-011,2023-06-02,2023-06-05,Settled,5400,Travelers Insurance,Repetitive Motion,Logistics coordinator developed wrist strain from extended data entry work
+WC-2023-012,2023-06-16,2023-06-19,Settled,18500,Zurich Insurance Group,Struck By Object,Stack of bagged materials shifted and fell on forklift operator
+WC-2023-015,2023-07-28,2023-07-31,In Review,0,Liberty Mutual Insurance,Struck By Object,Warehouse worker reports being struck by loading equipment — investigation ongoing
+WC-2023-016,2023-08-11,2023-08-14,Settled,7300,Travelers Insurance,Slip and Fall,Maintenance supervisor slipped on freshly sealed floor in equipment room
+WC-2023-019,2023-09-22,2023-09-25,Settled,11100,Zurich Insurance Group,Repetitive Motion,Grounds maintenance employee developed knee pain from prolonged kneeling
+WC-2023-021,2023-10-25,2023-10-28,Settled,6300,MetLife,Slip and Fall,Employee slipped on slick entryway floor during morning arrival
+WC-2023-024,2023-12-01,2023-12-04,Settled,4900,Liberty Mutual Insurance,Slip and Fall,Safety officer slipped on ice near site perimeter during routine walkthrough
+WC-2024-001,2024-01-10,2024-01-13,In Review,0,MetLife,Equipment Malfunction,Machine component failure under investigation for potential hand injury
+WC-2024-018,2024-09-04,2024-09-07,Settled,12000,MetLife,Struck By Object,Moving manufacturing component struck employee on upper arm
+WC-2024-003,2024-02-07,2024-02-10,In Review,0,Liberty Mutual Insurance,Struck By Object,Warehouse associate struck by unsecured pallet — investigation ongoing
+WC-2024-013,2024-07-01,2024-07-05,Open,0,Liberty Mutual Insurance,Slip and Fall,New claim filed for slip-and-fall incident in receiving area
+WC-2024-008,2024-04-15,2024-04-18,Settled,8800,Travelers Insurance,Equipment Malfunction,Power line contact during exterior maintenance caused hand burns
+WC-2024-020,2024-10-22,2024-10-25,Open,0,Travelers Insurance,Slip and Fall,New claim filed for slip in maintenance storage area
+WC-2024-010,2024-05-20,2024-05-23,In Review,0,Zurich Insurance Group,Equipment Malfunction,Forklift brake malfunction under review following near-miss incident
+WC-2024-021,2024-11-05,2024-11-08,Open,0,Zurich Insurance Group,Struck By Object,Forklift operator claims shifting load struck vehicle during tight maneuver
+WC-2024-016,2024-08-12,2024-08-14,In Review,0,Liberty Mutual Insurance,Struck By Object,Warehouse lead struck by swinging dock door — claim under review
+WC-2024-005,2024-03-05,2024-03-07,Settled,9200,MetLife,Slip and Fall,Quality inspector slipped on product spill causing shoulder strain
+WC-2024-014,2024-07-18,2024-07-21,Settled,11500,MetLife,Equipment Malfunction,Conveyor belt speed anomaly caused employee contact injury (group claim)
+WC-2024-009,2024-05-02,2024-05-05,Open,0,Chubb Limited,Equipment Malfunction,HVAC technician reports equipment-related shoulder injury during installation
+WC-2024-017,2024-08-28,2024-08-30,In Review,0,Travelers Insurance,Slip and Fall,Operations coordinator slipped on wet tile in office corridor — under review
+WC-2024-002,2024-01-25,2024-01-28,Settled,5100,Chubb Limited,Repetitive Motion,Assembly worker developed finger tendinitis from sustained repetitive motion
+WC-2024-004,2024-02-20,2024-02-22,Settled,7400,Travelers Insurance,Slip and Fall,Employee slipped on uneven pavement outside delivery entrance
+WC-2024-006,2024-03-18,2024-03-20,Settled,9800,Zurich Insurance Group,Equipment Malfunction,Loader arm equipment failure resulted in shoulder impact injury
+WC-2024-007,2024-04-02,2024-04-04,Settled,6300,Liberty Mutual Insurance,Struck By Object,Employee struck by hand truck in narrow warehouse aisle
+WC-2024-011,2024-06-10,2024-06-12,Settled,8600,Zurich Insurance Group,Slip and Fall,Worker slipped in refrigerated storage area causing knee sprain
+WC-2024-012,2024-06-25,2024-06-27,Settled,5900,Chubb Limited,Struck By Object,Tool fell from elevated work platform and struck employee below
+WC-2024-015,2024-07-30,2024-08-01,Settled,7200,Liberty Mutual Insurance,Repetitive Motion,Payroll specialist developed RSI from sustained high-volume data processing
+WC-2024-019,2024-10-08,2024-10-10,Open,0,Chubb Limited,Struck By Object,Inventory specialist reports back injury from falling storage bin
+WC-2024-022,2024-11-19,2024-11-21,Open,0,Chubb Limited,Repetitive Motion,Electrician reports new shoulder strain from sustained overhead installation work
+WC-2024-023,2024-12-03,2024-12-05,Open,0,MetLife,Struck By Object,Quality inspector reports being struck by roller on inspection line
+WC-2024-024,2024-12-10,2024-12-12,Open,0,Travelers Insurance,Slip and Fall,Loader slipped in icy conditions near dock entrance
+WC-2024-025,2024-12-20,2024-12-23,Open,0,MetLife,Struck By Object,Network engineer reports head injury from open cabinet door in server room
